@@ -1,7 +1,7 @@
 # AI-Powered-WebPage-Summarizer
 
 ## 🚀 Overview
-AI-Powered-WebPage-Summarizer is a web application that utilizes AI to extract and summarize the key points of any webpage. Just input a URL, and the app will provide a concise summary using OpenAI's GPT-4o Mini model.
+AI-Powered-WebPage-Summarizer is an application that utilizes AI to extract and summarize the key points of any webpage. Just input a URL, and the app will provide a concise summary using OpenAI's GPT-4o Mini model.
 
 ## ✨ Features
 - 🔍 **Extracts Content**: Fetches and processes webpage content.
