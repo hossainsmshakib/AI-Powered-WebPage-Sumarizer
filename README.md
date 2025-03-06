@@ -13,8 +13,8 @@ SilkSynopsis is an application that utilizes AI to extract and summarize the key
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/hossainsmshakib/SilkSynopsis-AIWebSumarizer.git
- cd SilkSynopsis-AIWebSumarizer
+ git clone https://github.com/hossainsmshakib/SilkSynopsis-AIWebSummarizer.git
+ cd SilkSynopsis-AIWebSummarizer
 ```
 
 ## ⚙️ Technologies Used
